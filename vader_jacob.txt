@@ -1,0 +1,84 @@
+# Vader Jacob
+## TIP Om dit liedje nog griezeliger te laten klinken:
+### vervang alle E's met Eb
+### vervang alle A's met Ab
+
+# vader jacob
+play :C3
+sleep 0.5
+play :D3
+sleep 0.5
+play :E3
+sleep 0.5
+play :C3
+sleep 0.5
+
+# vader jacob
+play :C3
+sleep 0.5
+play :D3
+sleep 0.5
+play :E3
+sleep 0.5
+play :C3
+sleep 0.5
+
+# slaap gij nog?
+play :E3
+sleep 0.5
+play :F3
+sleep 0.5
+play :G3
+sleep 1
+
+# slaap gij nog?
+play :E3
+sleep 0.5
+play :F3
+sleep 0.5
+play :G3
+sleep 1
+
+# alle klokken luiden
+play :G3
+sleep 0.25
+play :A3
+sleep 0.25
+play :G3
+sleep 0.25
+play :F3
+sleep 0.25
+play :E3
+sleep 0.5
+play :C3
+sleep 0.5
+
+# alle klokken luiden
+play :G3
+sleep 0.25
+play :A3
+sleep 0.25
+play :G3
+sleep 0.25
+play :F3
+sleep 0.25
+play :E3
+sleep 0.5
+play :C3
+sleep 0.5
+
+# bim bam bom
+play :C2
+sleep 0.5
+play :G2
+sleep 0.5
+play :C2
+sleep 1
+
+# bim bam bom 
+play :C2
+sleep 0.5
+play :G2
+sleep 0.5
+play :C2
+sleep 1

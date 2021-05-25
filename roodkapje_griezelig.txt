@@ -1,0 +1,97 @@
+# Roodkapje
+# Griezelige versie
+# Victoria Ávila
+# Educatief ontwerp
+# 18-05-21
+
+# Als voorbeeld van de opdracht
+# https://maken.wikiwijs.nl/177408/Programmeerlessen_met_muziek
+# # geschreven in mineur: F4 ipv Gb, Bb ipv B
+# # met disonanties
+# # met meerdere waarden voor with_fx
+# # met langzamer tempo use_bpm 90
+# # met use_synth :dark_ambience
+
+use_bpm 90
+use_synth :dark_ambience
+
+# zeg rood kapje
+with_fx :distortion do
+  with_fx :echo do
+    with_fx :krush do
+      with_fx :vowel do
+        play :D4
+        sleep 1
+        play :F4
+        sleep 1
+        play :A4
+        sleep 1
+        play :Ab4
+        sleep 0.5
+        
+        # waar ga je henen
+        play :A4
+        sleep 0.5
+        play :Ab4
+        sleep 1
+        play :Bb4
+        sleep 1
+        play :A4
+        sleep 1
+        play :F4
+        play :E4
+        sleep 1
+        
+        # zo alleen
+        play :D4
+        sleep 1
+        play :D4
+        sleep 1
+        play :Eb4
+        play :F4
+        sleep 2
+        
+        # zo alleen
+        play :E4
+        sleep 1
+        play :E4
+        sleep 1
+        play :F4
+        sleep 2
+        
+        # zeg rood kapje
+        play :D4
+        sleep 1
+        play :F4
+        sleep 1
+        play :A4
+        sleep 1
+        play :A4
+        sleep 0.5
+        
+        # waar ga je henen
+        play :A4
+        sleep 0.5
+        play :A4
+        sleep 1
+        play :Bb4
+        sleep 1
+        play :A4
+        sleep 1
+        play :F4
+        sleep 1
+        
+        # zo alleen
+        play :D3
+        sleep 2
+        play :Eb3
+        play :F3
+        sleep 2
+        play :D3
+        sleep 2
+      end
+    end
+  end
+end
+
+
