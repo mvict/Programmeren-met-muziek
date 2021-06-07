@@ -1,0 +1,76 @@
+# Roodkapje
+# Schrijf je naam hier
+
+# TIP Om dit liedje nog griezeliger te laten klinken:
+### vervang alle Gb's met F
+### vervang alle B's met Bb
+
+use_bpm 120
+
+# zeg rood kapje
+play :D4
+sleep 1
+play :Gb4
+sleep 1
+play :A4
+sleep 1
+play :A4
+sleep 0.5
+
+# waar ga je henen
+play :A4
+sleep 0.5
+play :A4
+sleep 1
+play :B4
+sleep 1
+play :A4
+sleep 1
+play :Gb4
+sleep 1
+
+# zo alleen
+play :D4
+sleep 1
+play :D4
+sleep 1
+play :E4
+sleep 2
+
+# zo alleen
+play :E4
+sleep 1
+play :E4
+sleep 1
+play :Gb4
+sleep 2
+
+# zeg rood kapje
+play :D4
+sleep 1
+play :Gb4
+sleep 1
+play :A4
+sleep 1
+play :A4
+sleep 0.5
+
+# waar ga je henen
+play :A4
+sleep 0.5
+play :A4
+sleep 1
+play :B4
+sleep 1
+play :A4
+sleep 1
+play :Gb4
+sleep 1
+
+# zo alleen
+play :D4
+sleep 2
+play :E4
+sleep 2
+play :D4
+sleep 2

@@ -1,0 +1,53 @@
+# Mamma mia
+# Sonic Pi versie gebaseerd op het lied van
+# Benny Andersson, Björn Ulvaeus and Stig Anderson
+
+# Fragmet 5
+
+use_bpm 130
+
+# Just one look and I can hear a bell ring
+play :G6
+sleep 1
+play :Gb6
+sleep 1
+play :E6
+sleep 0.5
+play :A5
+sleep 0.5
+play :A5
+sleep 0.5
+play :A5
+sleep 0.5
+play :A5
+sleep 0.5
+play :A5
+sleep 0.5
+play :A5
+sleep 0.5
+play :A5, sustain: 1.5
+sleep 1.5
+sleep 1
+
+# one more look and I forget ev'rything
+play :G6
+sleep 1
+play :Gb6
+sleep 1
+play :E6
+sleep 0.5
+play :A5
+sleep 0.5
+play :A5
+sleep 0.5
+play :A5
+sleep 0.5
+play :A5
+sleep 0.5
+play :A5
+sleep 0.5
+play :A5
+sleep 0.5
+play :A5, sustain: 1.5
+sleep 1.5
+sleep 1

@@ -1,0 +1,34 @@
+# Mamma mia
+# Sonic Pi versie gebaseerd op het lied van
+# Benny Andersson, Björn Ulvaeus and Stig Anderson
+
+# Fragmet 6: Mamma mia
+
+use_bpm 130
+
+# Mamma mia
+sleep 1
+play :E6
+sleep 0.5
+play :D6
+sleep 0.5
+play :E6
+sleep 0.5
+play :D6
+sleep 0.5
+sleep 1
+
+# Here I go again
+sleep 1
+play :D6
+sleep 0.5
+play :D6
+sleep 0.5
+play :E6
+sleep 0.5
+play :Gb6
+sleep 0.5
+play :E6
+sleep 0.5
+play :D6
+sleep 0.5

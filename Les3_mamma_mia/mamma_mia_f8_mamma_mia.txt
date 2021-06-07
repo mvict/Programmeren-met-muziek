@@ -1,0 +1,45 @@
+# Mamma mia
+# Sonic Pi versie gebaseerd op het lied van
+# Benny Andersson, Björn Ulvaeus and Stig Anderson
+
+# Fragmet 8
+
+use_bpm 130
+
+# Yes, I've been bro-
+sleep 1
+play :A6
+sleep 1.5
+play :A6
+sleep 0.5
+play :A6
+sleep 0.5
+play :A6
+sleep 1.5
+
+# ken hearted,
+play :E6
+sleep 1
+play :Gb6
+sleep 1
+play :G6
+sleep 1.5
+
+# blue since the day
+sleep 1
+play :Gb6
+sleep 1.5
+play :Gb6
+sleep 0.5
+play :Gb6
+sleep 0.5
+play :Gb6
+sleep 1.5
+
+# we parted
+play :Db6
+sleep 1
+play :D6
+sleep 1
+play :E6
+sleep 1.5

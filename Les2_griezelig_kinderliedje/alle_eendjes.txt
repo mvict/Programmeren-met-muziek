@@ -1,0 +1,121 @@
+# Alle eendjes
+# Schrijf je naam hier
+
+# TIP: Om dit liedje nog griezeliger te laten klinken:
+### vervang alle A's met Ab
+### vervang alle E's met Eb
+### vervang alle D's met Db
+
+use_bpm  120
+use_synth :piano
+
+# alle eendjes
+play :F4
+sleep 1
+play :F4
+sleep 1
+play :G4
+sleep 1
+play :G4
+sleep 1
+
+# zwemmen in het water
+play :C5
+sleep 0.75
+play :D5
+sleep 0.25
+play :C5
+sleep 0.75
+play :Bb4
+sleep 0.25
+play :A4
+sleep 1
+play :G4
+sleep 1
+
+
+# fa de ral de rie re
+play :F4
+sleep 0.75
+play :F4
+sleep 0.25
+play :F4
+sleep 0.75
+play :E4
+sleep 0.25
+play :D4
+sleep 1
+play :C4
+sleep 1
+
+# fa de ral de rie re
+play :F4
+sleep 0.75
+play :F4
+sleep 0.25
+play :F4
+sleep 0.75
+play :E4
+sleep 0.25
+play :D4
+sleep 1
+play :C4
+sleep 1
+
+# alle eendjes
+play :F4
+sleep 1
+play :F4
+sleep 1
+play :G4
+sleep 1
+play :G4
+sleep 1
+
+# zwemmen in het water
+play :C5
+sleep 0.75
+play :D5
+sleep 0.25
+play :C5
+sleep 0.75
+play :Bb4
+sleep 0.25
+play :A4
+sleep 1
+play :G4
+sleep 1
+
+
+#fal fal
+play :D4
+sleep 2
+play :E4
+sleep 2
+
+
+#falde ralde falde ral de
+play :F4
+sleep 0.75
+play :A4
+sleep 0.25
+play :C5
+sleep 0.75
+play :A4
+sleep 0.25
+play :F4
+sleep 0.75
+play :A4
+sleep 0.25
+play :C5
+sleep 0.75
+play :A4
+sleep 0.25
+
+#falde ralde falde ral de
+play :F4
+sleep 1
+play :F4
+sleep 1
+play :F4
+sleep 2

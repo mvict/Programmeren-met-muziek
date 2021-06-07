@@ -1,0 +1,88 @@
+# Mamma mia
+# Sonic Pi versie gebaseerd op het lied van
+# Benny Andersson, Björn Ulvaeus and Stig Anderson
+
+# Fragmet 1: Intro
+
+use_bpm 130
+use_synth :piano
+
+# intro
+# 1
+play :D4
+sleep 0.5
+play :A4
+sleep 0.5
+
+# 2
+play :D4
+sleep 0.5
+play :A4
+sleep 0.5
+
+# 3
+play :D4
+sleep 0.5
+play :A4
+sleep 0.5
+
+# 1
+play :D4
+sleep 0.5
+play :Ab4
+sleep 0.5
+
+# 2
+play :D4
+sleep 0.5
+play :Ab4
+sleep 0.5
+
+# 3
+play :D4
+sleep 0.5
+play :Ab4
+sleep 0.5
+
+
+# 1
+play :D4
+sleep 0.5
+play :A4
+sleep 0.5
+
+# 2
+play :D4
+sleep 0.5
+play :A4
+sleep 0.5
+
+# 3
+play :D4
+sleep 0.5
+play :A4
+sleep 0.5
+
+# 1
+play :D4
+sleep 0.5
+play :Ab4
+sleep 0.5
+
+# 2
+play :D4
+sleep 0.5
+play :Ab4
+sleep 0.5
+
+# 3
+play :D4
+sleep 0.5
+play :Ab4
+sleep 0.5
+
+# 1
+play :D4
+sleep 0.5
+play :A4
+sleep 0.5

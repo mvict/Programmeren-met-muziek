@@ -1,0 +1,90 @@
+# The Westminster Quarters
+# Als voorbeeld van de opdracht 'Je versie van The Westminster Quarters'
+# https://maken.wikiwijs.nl/177408/Programmeerlessen_met_muziek
+
+use_bpm 90
+
+# maat 1
+play :C5
+sleep 1
+play :D5
+sleep 0.5
+play :D5
+sleep 0.5
+play :E5
+sleep 1
+play :G4
+sleep 2
+
+# maat 2
+play :D5
+sleep 1
+play :E5
+sleep 0.5
+play :E5
+sleep 0.5
+play :D5
+sleep 1
+play :C5, sustain: 1.5
+sleep 2
+
+# maat 3
+play :G5
+sleep 1
+play :E5
+sleep 0.5
+play :E5
+sleep 0.5
+play :D5
+sleep 1
+play :C4, sustain: 1.5
+sleep 2
+
+# maat 4
+play :C5
+sleep 1
+play :E5
+sleep 0.5
+play :E5
+sleep 0.5
+play :D5
+sleep 1
+play :C4, sustain: 1.5
+sleep 2
+
+# maat 5
+play :G4
+sleep 1
+play :D5
+sleep 0.5
+play :D5
+sleep 0.5
+play :G5
+sleep 1
+play :C5, sustain: 1.5
+sleep 2
+
+# klokslagen
+play :C4, sustain: 3.5
+play :C3, sustain: 3.5
+sleep 4
+
+play :C4, sustain: 3.5
+play :C3, sustain: 3.5
+sleep 4
+
+play :C4, sustain: 3.5
+play :C3, sustain: 3.5
+sleep 4
+
+play :C4, sustain: 3.5
+play :C3, sustain: 3.5
+sleep 4
+
+play :C4, sustain: 3.5
+play :C3, sustain: 3.5
+sleep 4
+
+play :C4, sustain: 3.5
+play :C4, sustain: 3.5
+sleep 4

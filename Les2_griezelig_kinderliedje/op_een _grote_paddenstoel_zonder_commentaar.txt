@@ -1,0 +1,112 @@
+play :G5
+sleep 0.5
+play :G5
+sleep 0.5
+play :G5
+sleep 0.5
+play :A5
+sleep 0.5
+
+play :B5
+sleep 0.5
+play :B5
+sleep 0.5
+play :B5
+sleep 1
+
+play :A5
+sleep 0.5
+play :G5
+sleep 0.5
+play :A5
+sleep 0.5
+play :B5
+sleep 0.5
+play :G5
+sleep 1
+play :D5
+sleep 1
+
+
+play :B5
+sleep 0.5
+play :B5
+sleep 0.5
+play :B5
+sleep 0.5
+play :C6
+sleep 0.5
+
+play :D6
+sleep 0.5
+play :D6
+sleep 0.5
+play :D6
+sleep 1
+
+play :C6
+sleep 0.5
+play :B5
+sleep 0.5
+play :C6
+sleep 0.5
+play :D6
+sleep 0.5
+
+play :B5
+sleep 1
+play :G5
+sleep 1
+
+play :D6
+sleep 0.5
+play :D6
+sleep 0.5
+play :D6
+sleep 0.5
+play :D6
+sleep 0.5
+
+play :E6
+sleep 0.5
+play :E6
+sleep 0.5
+play :E6
+sleep 1
+
+play :C6
+sleep 0.5
+play :C6
+sleep 0.5
+play :C6
+sleep 0.5
+play :E6
+sleep 0.5
+
+play :D6
+sleep 2
+
+play :G5
+sleep 0.5
+play :G5
+sleep 0.5
+play :G5
+sleep 0.5
+play :A5
+sleep 0.5
+
+play :B5
+sleep 1
+play :B5
+sleep 1
+
+play :A5
+sleep 0.5
+play :G5
+sleep 0.5
+play :A5
+sleep 0.5
+play :B5
+sleep 0.5
+play :G5
+sleep 2

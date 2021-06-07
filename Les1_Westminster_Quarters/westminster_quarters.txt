@@ -1,0 +1,68 @@
+# The Westminster Quarters
+
+use_bpm 90
+
+# maat 1
+play :C5
+sleep 1
+play :E5
+sleep 1
+play :D5
+sleep 1
+play :G4, sustain: 1.5
+sleep 2
+
+# maat 2
+play :C5
+sleep 1
+play :D5
+sleep 1
+play :E5
+sleep 1
+play :C5, sustain: 1.5
+sleep 2
+
+# maat 3
+play :E5
+sleep 1
+play :C5
+sleep 1
+play :D5
+sleep 1
+play :G4, sustain: 1.5
+sleep 2
+
+# maat 4
+play :G4
+sleep 1
+play :D5
+sleep 1
+play :E5
+sleep 1
+play :C5, sustain: 1.5
+sleep 2
+
+# klokslagen
+play :C4, sustain: 3.5
+play :C3, sustain: 3.5
+sleep 4
+
+play :C4, sustain: 3.5
+play :C3, sustain: 3.5
+sleep 4
+
+play :C4, sustain: 3.5
+play :C3, sustain: 3.5
+sleep 4
+
+play :C4, sustain: 3.5
+play :C3, sustain: 3.5
+sleep 4
+
+play :C4, sustain: 3.5
+play :C3, sustain: 3.5
+sleep 4
+
+play :C4, sustain: 3.5
+play :C4, sustain: 3.5
+sleep 4
