@@ -1,7 +1,6 @@
 # Toonladders
 # https://maken.wikiwijs.nl/177408/Programmeerlessen_met_muziek
 
-
 # oplopende toonladder
 # het begint op de laagste toon C4
 # het eindigt op de hoogste toon C5 of C4 + 12
